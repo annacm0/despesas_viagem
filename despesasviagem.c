@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+int main () {
 
     // Variáveis para armazenar a distância da viagem e o preço do combustível
     float distancia, preco;
